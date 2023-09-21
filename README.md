@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4ttt6mhym1256dh4?svg=true)](https://ci.appveyor.com/project/OlyaMa/proimses)
